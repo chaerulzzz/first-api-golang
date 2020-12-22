@@ -1,11 +1,11 @@
-package FIRST_API
+package main
 
 import (
 	"os"
 )
 
 func main() {
-	a := App{}
+	var a = App{}
 
 	a.Initialize(
 		os.Getenv("APP_DB_USERNAME"),

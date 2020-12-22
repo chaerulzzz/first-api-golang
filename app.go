@@ -1,4 +1,4 @@
-package FIRST_API
+package main
 
 import (
 	"database/sql"

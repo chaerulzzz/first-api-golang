@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a6efd34-56ed-4228-bae8-e21512d5f7dc" name="Default Changelist" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/app.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product.go" afterDir="false" />
+    <list default="true" id="9a6efd34-56ed-4228-bae8-e21512d5f7dc" name="Default Changelist" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Database.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.go" beforeDir="false" afterPath="$PROJECT_DIR$/app.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/main_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product.go" beforeDir="false" afterPath="$PROJECT_DIR$/product.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +53,16 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go Build.go build FIRST-API (1)">
+    <configuration name="go build FIRST-API (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="FIRST-API" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="FIRST-API" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build FIRST-API" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
       <module name="FIRST-API" />
       <working_directory value="$PROJECT_DIR$" />
@@ -67,6 +74,11 @@
       <output_directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build FIRST-API (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,7 +86,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -97,38 +110,42 @@
     </state>
     <state x="1563" y="49" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/1280.0.1366.768/0.0.1280.800@1280.0.1366.768" timestamp="1608534932620" />
     <state x="1563" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog/1280.0.1366.768/0.23.1280.777@1280.0.1366.768" timestamp="1608533551402" />
-    <state width="906" height="202" key="GridCell.Tab.0.bottom" timestamp="1608540601654">
+    <state width="662" height="202" key="GridCell.Tab.0.bottom" timestamp="1608604922880">
       <screen x="1280" y="0" width="1366" height="768" />
     </state>
-    <state width="906" height="202" key="GridCell.Tab.0.bottom/1280.0.1366.768/0.0.1280.800@1280.0.1366.768" timestamp="1608540601654" />
-    <state width="906" height="202" key="GridCell.Tab.0.center" timestamp="1608540601652">
+    <state width="662" height="202" key="GridCell.Tab.0.bottom/1280.0.1366.768/0.0.1280.800@1280.0.1366.768" timestamp="1608604625693" />
+    <state width="662" height="202" key="GridCell.Tab.0.bottom/1280.0.1366.768/0.23.1280.777@1280.0.1366.768" timestamp="1608604922880" />
+    <state width="662" height="202" key="GridCell.Tab.0.center" timestamp="1608604922874">
       <screen x="1280" y="0" width="1366" height="768" />
     </state>
-    <state width="906" height="202" key="GridCell.Tab.0.center/1280.0.1366.768/0.0.1280.800@1280.0.1366.768" timestamp="1608540601652" />
-    <state width="906" height="202" key="GridCell.Tab.0.left" timestamp="1608540601648">
+    <state width="662" height="202" key="GridCell.Tab.0.center/1280.0.1366.768/0.0.1280.800@1280.0.1366.768" timestamp="1608604625690" />
+    <state width="662" height="202" key="GridCell.Tab.0.center/1280.0.1366.768/0.23.1280.777@1280.0.1366.768" timestamp="1608604922874" />
+    <state width="662" height="202" key="GridCell.Tab.0.left" timestamp="1608604922872">
       <screen x="1280" y="0" width="1366" height="768" />
     </state>
-    <state width="906" height="202" key="GridCell.Tab.0.left/1280.0.1366.768/0.0.1280.800@1280.0.1366.768" timestamp="1608540601648" />
-    <state width="906" height="202" key="GridCell.Tab.0.right" timestamp="1608540601653">
+    <state width="662" height="202" key="GridCell.Tab.0.left/1280.0.1366.768/0.0.1280.800@1280.0.1366.768" timestamp="1608604625688" />
+    <state width="662" height="202" key="GridCell.Tab.0.left/1280.0.1366.768/0.23.1280.777@1280.0.1366.768" timestamp="1608604922872" />
+    <state width="662" height="202" key="GridCell.Tab.0.right" timestamp="1608604922878">
       <screen x="1280" y="0" width="1366" height="768" />
     </state>
-    <state width="906" height="202" key="GridCell.Tab.0.right/1280.0.1366.768/0.0.1280.800@1280.0.1366.768" timestamp="1608540601653" />
-    <state width="1324" height="251" key="GridCell.Tab.1.bottom" timestamp="1608534984874">
+    <state width="662" height="202" key="GridCell.Tab.0.right/1280.0.1366.768/0.0.1280.800@1280.0.1366.768" timestamp="1608604625691" />
+    <state width="662" height="202" key="GridCell.Tab.0.right/1280.0.1366.768/0.23.1280.777@1280.0.1366.768" timestamp="1608604922878" />
+    <state width="1324" height="251" key="GridCell.Tab.1.bottom" timestamp="1608546017233">
       <screen x="1280" y="0" width="1366" height="768" />
     </state>
-    <state width="1324" height="251" key="GridCell.Tab.1.bottom/1280.0.1366.768/0.0.1280.800@1280.0.1366.768" timestamp="1608534984874" />
-    <state width="1324" height="251" key="GridCell.Tab.1.center" timestamp="1608534984872">
+    <state width="1324" height="251" key="GridCell.Tab.1.bottom/1280.0.1366.768/0.0.1280.800@1280.0.1366.768" timestamp="1608546017233" />
+    <state width="1324" height="251" key="GridCell.Tab.1.center" timestamp="1608546017231">
       <screen x="1280" y="0" width="1366" height="768" />
     </state>
-    <state width="1324" height="251" key="GridCell.Tab.1.center/1280.0.1366.768/0.0.1280.800@1280.0.1366.768" timestamp="1608534984872" />
-    <state width="1324" height="251" key="GridCell.Tab.1.left" timestamp="1608534984871">
+    <state width="1324" height="251" key="GridCell.Tab.1.center/1280.0.1366.768/0.0.1280.800@1280.0.1366.768" timestamp="1608546017231" />
+    <state width="1324" height="251" key="GridCell.Tab.1.left" timestamp="1608546017229">
       <screen x="1280" y="0" width="1366" height="768" />
     </state>
-    <state width="1324" height="251" key="GridCell.Tab.1.left/1280.0.1366.768/0.0.1280.800@1280.0.1366.768" timestamp="1608534984871" />
-    <state width="1324" height="251" key="GridCell.Tab.1.right" timestamp="1608534984873">
+    <state width="1324" height="251" key="GridCell.Tab.1.left/1280.0.1366.768/0.0.1280.800@1280.0.1366.768" timestamp="1608546017229" />
+    <state width="1324" height="251" key="GridCell.Tab.1.right" timestamp="1608546017232">
       <screen x="1280" y="0" width="1366" height="768" />
     </state>
-    <state width="1324" height="251" key="GridCell.Tab.1.right/1280.0.1366.768/0.0.1280.800@1280.0.1366.768" timestamp="1608534984873" />
+    <state width="1324" height="251" key="GridCell.Tab.1.right/1280.0.1366.768/0.0.1280.800@1280.0.1366.768" timestamp="1608546017232" />
     <state x="1563" y="124" key="Vcs.Push.Dialog.v2" timestamp="1608526749263">
       <screen x="1280" y="0" width="1366" height="768" />
     </state>
